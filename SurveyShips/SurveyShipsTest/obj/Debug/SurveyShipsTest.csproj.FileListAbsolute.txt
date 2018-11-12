@@ -1,0 +1,7 @@
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\SurveyShips\SurveyShipsTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\SurveyShips\SurveyShipsTest\bin\Debug\SurveyShipsTest.dll
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\SurveyShips\SurveyShipsTest\bin\Debug\SurveyShipsTest.pdb
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\SurveyShips\SurveyShipsTest\bin\Debug\SurveyShips.dll
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\SurveyShips\SurveyShipsTest\bin\Debug\SurveyShips.pdb
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\SurveyShips\SurveyShipsTest\obj\Debug\SurveyShipsTest.dll
+C:\Users\Jon\Documents\Visual Studio 2008\Projects\SurveyShips\SurveyShipsTest\obj\Debug\SurveyShipsTest.pdb
